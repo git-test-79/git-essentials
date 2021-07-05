@@ -1,3 +1,5 @@
 A new file to commit
 
 A new line has been added
+
+This file shows up in "main" and "modify_to_commit" branches too.

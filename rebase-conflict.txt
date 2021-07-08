@@ -1,3 +1,5 @@
 line 1 from github
 line two from console
-line three from console
+line 3 from github
+this line is from console
+
